@@ -1,0 +1,33 @@
+{
+    
+    "duration" : 7.0,
+    "pageContents" [
+        {
+            "pageType":  "standarWithImage"
+            "nextButtonText": "Next"
+            "metadata": {
+                "title": "Get started with Bookde"
+                "subtitle": "ssss"
+            }
+        },
+
+        {
+            "pageType":  "standarWithImage"
+            "nextButtonText": "Next"
+            "metadata": {
+                "title": "Get started with Bookde"
+                "subtitle": "ssss"
+            }
+        },
+
+        {
+            "pageType":  "standarWithImage"
+            "nextButtonText": "Next"
+            "metadata": {
+                "title": "Get started with Bookde"
+                "subtitle": "ssss"
+            }
+        },
+
+    ]
+}
